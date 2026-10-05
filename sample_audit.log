@@ -1,0 +1,12 @@
+2026-10-05 09:15:22 | user=adiba | operation=SELECT
+2026-10-05 09:17:04 | user=rahul | operation=INSERT
+2026-10-05 09:20:11 | user=adiba | operation=UPDATE
+2026-10-05 10:05:33 | user=sara | operation=SELECT
+2026-10-05 10:10:45 | user=adiba | operation=SELECT
+2026-10-05 11:22:19 | user=rahul | operation=SELECT
+2026-10-05 12:03:41 | user=adiba | operation=SELECT
+2026-10-05 13:15:08 | user=sara | operation=UPDATE
+2026-10-05 14:20:55 | user=rahul | operation=INSERT
+2026-10-06 09:05:12 | user=adiba | operation=SELECT
+2026-10-06 09:10:44 | user=rahul | operation=UPDATE
+2026-10-06 10:21:30 | user=sara | operation=SELECT

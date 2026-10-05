@@ -1,0 +1,10 @@
+date,username,operation,count
+2026-10-05,adiba,SELECT,3
+2026-10-05,adiba,UPDATE,1
+2026-10-05,rahul,INSERT,2
+2026-10-05,rahul,SELECT,1
+2026-10-05,sara,SELECT,1
+2026-10-05,sara,UPDATE,1
+2026-10-06,adiba,SELECT,1
+2026-10-06,rahul,UPDATE,1
+2026-10-06,sara,SELECT,1
